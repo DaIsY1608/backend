@@ -7,7 +7,4 @@ func main() {
 	fmt.Println("hi22")
 	fmt.Println("hi3")
 	fmt.Println("hi4")
-	fmt.Println("hiiiiiiiiiiiiiiiiiiiii4")
-	fmt.Println("hiiiiiiiiidfdfiiiiiiiiiiii4")
-
 }
